@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=sevillana&family=tangerine:wght@400;700&display=swap");
+BODY{
+    BACKGROUND-COLOR:rgb(0, 238, 255)
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif,cursive;
+    font-weight:700;
+    font-style:normal;
+}
+TABLE{
+    BORDER:2PX SOLID rgb(6, 39, 6);
+}
+.HOBY{
+    BACKGROUND-COLOR:rgb(65, 255, 144);
+}
